@@ -20,8 +20,7 @@
 
 title: The Assorted Aces
 email: assortedaces@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-"The Assorted Aces is a dance team fostering creativity, community, and growth for dancers of all levels."
+description: The Assorted Aces is a dance team fostering creativity, community, and growth for dancers of all levels.
 
 # Build settings
 theme: minima
@@ -49,6 +48,6 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
-  - index.markdown
-  - about.markdown
-  - performances.markdown
+  - index.html
+  - about.html
+  - performances.html
