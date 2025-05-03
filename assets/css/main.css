@@ -340,33 +340,6 @@ table td { border: 1px solid #e8e8e8; }
   background-color: #444;
 }
 
-.site-nav .trigger a {
-  display: inline-block;
-  margin-right: 15px;
-  text-decoration: none;
-}
-
-.site-nav {
-  font-size: 16px;
-  line-height: 54px;
-}
-
-.site-nav .trigger {
-  display: flex;
-  gap: 20px;
-  align-items: center;
-}
-
-.site-nav .page-link {
-  margin: 0;
-  padding: 0;
-  line-height: 1;
-  color: #111;
-  font-weight: 400;
-  font-size: 16px;
-  text-decoration: none;
-}
-
 .site-nav .page-link:hover {
   text-decoration: underline;
 }
